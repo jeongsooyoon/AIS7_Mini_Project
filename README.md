@@ -1,6 +1,6 @@
 # AIS7_Mini_Project
-AIS 7기에서 진행한 Mini project 저장소
-'프로젝트'라고 하기엔 많이 부족하지만, 코딩을 처음 배우고 배운 내용을 하나씩 시도해볼 수 있어서 좋았음
+- AIS 7기에서 진행한 Mini project 저장소
+- '프로젝트'라고 하기엔 부족한 부분이 많지만, 배운 내용을 정리하고 적용해보는 것에 의의가 있었음
 
 # Project List
 ### 1. Naver 영화 랭킹 정보 스크래핑 (Naver Movie Ranking Scarping)
